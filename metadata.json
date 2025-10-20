@@ -1,0 +1,5 @@
+{
+  "name": "Bảng theo dõi đơn hàng",
+  "description": "Một ứng dụng bảng kanban để theo dõi trạng thái đơn hàng.",
+  "requestFramePermissions": []
+}
